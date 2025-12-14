@@ -1,0 +1,6 @@
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+
+MDK-ARM/bootloader
+MDK-ARM/RTE
+MDK-ARM/DebugConfig

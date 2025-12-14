@@ -1,0 +1,6 @@
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+
+MDK-ARM/update_firmware
+MDK-ARM/RTE
+MDK-ARM/DebugConfig
