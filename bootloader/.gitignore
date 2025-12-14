@@ -1,6 +1,7 @@
-MDK-ARM/*.uvoptx
-MDK-ARM/*.uvguix.*
-
-MDK-ARM/bootloader
-MDK-ARM/RTE
-MDK-ARM/DebugConfig
+MDK-ARM/bootloader/*.d
+MDK-ARM/bootloader/*.o
+MDK-ARM/bootloader/*.htm
+MDK-ARM/bootloader/*.lnp
+MDK-ARM/bootloader/*.hex
+MDK-ARM/bootloader/*.dep
+MDK-ARM/bootloader/charger-ebike_2.build_log.htm
